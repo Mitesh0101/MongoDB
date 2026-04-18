@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69e3c78d5985670b4fb039d6"
+  },
+  "name": "Spongebob",
+  "age": 30,
+  "gpa": 3.2
+},
+{
+  "_id": {
+    "$oid": "69e3c7dc5985670b4fb039d8"
+  },
+  "name": "Patrick",
+  "age": 38,
+  "gpa": 1.5
+},
+{
+  "_id": {
+    "$oid": "69e3c7dc5985670b4fb039d9"
+  },
+  "name": "Sandy",
+  "age": 27,
+  "gpa": 3
+},
+{
+  "_id": {
+    "$oid": "69e3c7dc5985670b4fb039da"
+  },
+  "name": "Gaey",
+  "age": 18,
+  "gpa": 2.5
+},
+{
+  "_id": {
+    "$oid": "69e3ccb75985670b4fb039e5"
+  },
+  "name": "Mitesh",
+  "gpa": 3,
+  "age": 18
+}]
