@@ -1,4 +1,4 @@
-# 🍃 MongoDB 101: The Casual Guide
+# 🍃 MongoDB 101: The Guide
 
 Hey! Ready to master MongoDB? It's a NoSQL document database, which basically means it stores data as JSON-like documents. Flexible, fast, and pretty fun once you get the hang of it.
 
